@@ -62,7 +62,7 @@
     "AUTO_LIKE_EMOJIS": {
       "description": "Input your custom status like emoji(s) else leave to use default emojis. Only works if autolike status is 'true'",
       "required": false,
-      "value": "💜,💛,❤️,🤍,💙"
+      "value": "😎,🔥,💖,💕,✌️"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
