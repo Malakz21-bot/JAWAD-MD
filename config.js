@@ -34,7 +34,7 @@ Violators will be ignored without warning 😄
 Kindly text.*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "MALAKZ-MD", //  don't change 
-BOT_PIC: process.env.BOT_PIC || "https://files.catbox.moe/pf270b.jpg", //  don't change 
+BOT_PIC: process.env.BOT_PIC || "https://file_000000007c7071fda5901df7fa1fc91c.png", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "i am jawad md",
