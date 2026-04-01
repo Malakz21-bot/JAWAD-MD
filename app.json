@@ -27,12 +27,12 @@
     "BOT_PIC": {
       "description": "add a pic url for bot dp",
       "required": false,
-      "value": "https://files.catbox.moe/pf270b.jpg"
+      "value": "https://file_000000007c7071fda5901df7fa1fc91c.png"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 92xxxxx",
       "required": true,
-      "value": "923427582273"
+      "value": "256787038917"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
